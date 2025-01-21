@@ -33,7 +33,7 @@ This script downloads audio from a YouTube video and converts it to MP3 format.
 #### Usage
 
 ```bash
-python audio_converter.py <YouTube_URL>
+python mp3Convert.py <YouTube_URL>
 ```
 
 #### Script Details
@@ -59,7 +59,7 @@ This script downloads the highest resolution video from a YouTube URL.
 #### Usage
 
 ```bash
-python video_converter.py <YouTube_URL>
+python mp4Convert.py <YouTube_URL>
 ```
 
 #### Script Details
@@ -77,8 +77,8 @@ python video_converter.py <YouTube_URL>
 
 ## Files
 
-- `audio_converter.py` - Python script for converting YouTube videos to MP3.
-- `video_converter.py` - Python script for downloading the highest resolution video from YouTube.
+- `mp3Convert.py` - Python script for converting YouTube videos to MP3.
+- `mp4Convert.py` - Python script for downloading the highest resolution video from YouTube.
 
 ## Notes
 
